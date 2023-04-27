@@ -1,0 +1,7 @@
+/home/tim/Tests/AdsTest/build/CMakeFiles/rebuild_cache.dir
+/home/tim/Tests/AdsTest/build/CMakeFiles/edit_cache.dir
+/home/tim/Tests/AdsTest/build/CMakeFiles/test.dir
+/home/tim/Tests/AdsTest/build/CMakeFiles/example.dir
+/home/tim/Tests/AdsTest/build/AdsLib/CMakeFiles/rebuild_cache.dir
+/home/tim/Tests/AdsTest/build/AdsLib/CMakeFiles/edit_cache.dir
+/home/tim/Tests/AdsTest/build/AdsLib/CMakeFiles/ads.dir

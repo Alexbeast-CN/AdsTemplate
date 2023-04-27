@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/tim/Tests/AdsTest/build",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g   -o CMakeFiles/test.dir/test.cpp.o -c /home/tim/Tests/AdsTest/test.cpp",
+  "file": "/home/tim/Tests/AdsTest/test.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g   -o CMakeFiles/example.dir/example.cpp.o -c /home/tim/Tests/AdsTest/example.cpp",
+  "file": "/home/tim/Tests/AdsTest/example.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/AdsDef.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/AdsDef.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/AdsDef.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/AdsDevice.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/AdsDevice.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/AdsDevice.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/AdsFile.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/AdsFile.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/AdsFile.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/AdsLib.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/AdsLib.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/AdsLib.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/Frame.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/Frame.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/Frame.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/LicenseAccess.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/LicenseAccess.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/LicenseAccess.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/Log.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/Log.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/Log.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/RouterAccess.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/RouterAccess.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/RouterAccess.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/RTimeAccess.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/RTimeAccess.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/RTimeAccess.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/Sockets.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/Sockets.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/Sockets.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/standalone/AdsLib.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/standalone/AdsLib.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/standalone/AdsLib.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/standalone/AmsConnection.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/standalone/AmsConnection.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/standalone/AmsConnection.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/standalone/AmsNetId.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/standalone/AmsNetId.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/standalone/AmsNetId.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/standalone/AmsPort.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/standalone/AmsPort.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/standalone/AmsPort.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/standalone/AmsRouter.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/standalone/AmsRouter.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/standalone/AmsRouter.cpp"
+},
+{
+  "directory": "/home/tim/Tests/AdsTest/build/AdsLib",
+  "command": "/usr/bin/g++  -DCONFIG_DEFAULT_LOGLEVEL=1 -D_GNU_SOURCE -Dads_EXPORTS -I/home/tim/Tests/AdsTest/AdsLib -I/home/tim/Tests/AdsTest/AdsLib/.  -g -fPIC   -o CMakeFiles/ads.dir/standalone/NotificationDispatcher.cpp.o -c /home/tim/Tests/AdsTest/AdsLib/standalone/NotificationDispatcher.cpp",
+  "file": "/home/tim/Tests/AdsTest/AdsLib/standalone/NotificationDispatcher.cpp"
+}
+]

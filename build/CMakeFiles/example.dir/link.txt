@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/example.dir/example.cpp.o  -o example  -Wl,-rpath,/home/tim/Tests/AdsTest/build/AdsLib AdsLib/libads.so -lpthread 
